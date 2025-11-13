@@ -28,13 +28,7 @@ export default function RootLayout({
         {children}
 
         {/* Telegram badge */}
-        <Link
-  href="https://t.me/+leEvpWkMfmIzZDQy"
-  target="_blank"
-  className="fixed bottom-4 right-4 bg-black text-white px-4 py-2 rounded-full shadow-lg hover:opacity-80 transition select-none"
->
-  &lt; Dev Abdulhaq Sherqo'ziyev &gt;
-</Link>
+       
 
 
         <Analytics />
